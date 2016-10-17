@@ -1,2 +1,3 @@
 # hello-world
-use for learning how to use GitHub
+Hi Humans!
+A funny bunny is here, I am a fresh girl about coding and github.
